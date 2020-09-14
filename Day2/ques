@@ -1,0 +1,13 @@
+11. https://www.geeksforgeeks.org/maximum-sum-path-across-two-arrays/<br>
+Given two sorted arrays, such that the arrays may have some common elements. Find the sum of the maximum sum path to reach from the beginning of any array to end of any of the two arrays. We can switch from one array to another array only at common elements.
+Note: The common elements do not have to be at the same indexes.<br>
+12. https://www.geeksforgeeks.org/given-an-array-arr-find-the-maximum-j-i-such-that-arrj-arri/ <br>
+Given an array arr[], find the maximum j – i such that arr[j] > arr[i].<br>
+13. https://www.geeksforgeeks.org/find-the-minimum-distance-between-two-numbers/
+14. https://www.geeksforgeeks.org/find-whether-subarray-form-mountain-not/
+15. https://www.geeksforgeeks.org/merging-intervals/
+16. https://www.geeksforgeeks.org/a-product-array-puzzle/
+17. https://www.geeksforgeeks.org/rearrange-given-array-place/
+18. https://www.geeksforgeeks.org/remove-duplicates-from-an-array-of-small-primes/
+19. https://www.geeksforgeeks.org/replace-0-5-input-integer/
+20. https://www.geeksforgeeks.org/array-rotation/

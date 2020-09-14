@@ -39,3 +39,15 @@ Given an array(0-based indexing), you have to find the max sum of i*A[i] where A
 18. https://www.geeksforgeeks.org/remove-duplicates-from-an-array-of-small-primes/
 19. https://www.geeksforgeeks.org/replace-0-5-input-integer/
 20. https://www.geeksforgeeks.org/array-rotation/
+----------------------------------------------------------------------------------------------------------------
+<h3>Day 3 (ARRAYS)</h3>
+21. https://www.geeksforgeeks.org/find-a-sorted-subsequence-of-size-3-in-linear-time/
+22. https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/
+23. https://www.geeksforgeeks.org/find-subarray-with-given-sum/
+24. https://www.geeksforgeeks.org/third-largest-element-array-distinct-elements/
+25. https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/
+26. https://www.geeksforgeeks.org/trapping-rain-water/
+27. https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
+28. https://www.geeksforgeeks.org/sort-array-wave-form-2/
+29. https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
+30. https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/
