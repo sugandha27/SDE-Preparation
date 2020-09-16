@@ -1,0 +1,1 @@
+vector<bool> processQueries(int arr[],int n)
