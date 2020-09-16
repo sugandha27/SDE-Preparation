@@ -3,6 +3,7 @@
         "cmath": "cpp",
         "complex": "cpp",
         "cstdlib": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "vector": "cpp"
     }
 }
