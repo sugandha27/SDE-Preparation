@@ -24,5 +24,8 @@ Solve it without division operator in O(n) time.
 Given an array arr[] of size n where every element is in range from 0 to n-1. Rearrange the given array so that arr[i] becomes arr[arr[i]]. 
 This should be done with O(1) extra space.
 18. https://www.geeksforgeeks.org/remove-duplicates-from-an-array-of-small-primes/
+Given an array of primes such that the range of primes is small. Remove duplicates from the array.
 19. https://www.geeksforgeeks.org/replace-0-5-input-integer/
+Given an integer as input and replace all the ‘0’ with ‘5’ in the integer.
 20. https://www.geeksforgeeks.org/array-rotation/
+Write a function rotate(ar[], d, n) that rotates arr[] of size n by d elements.

@@ -29,16 +29,38 @@ Given n numbers (both +ve and -ve), arranged in a circle, fnd the maximum sum of
 Given an array(0-based indexing), you have to find the max sum of i*A[i] where A[i] is the element at index i in the array. The only operation allowed is to rotate(clock-wise or counter clock-wise) the array any number of times.
 ----------------------------------------------------------------------------------------------------------------
 <h3>Day 2 (ARRAYS)</h3>
-11. https://www.geeksforgeeks.org/maximum-sum-path-across-two-arrays/
-12. https://www.geeksforgeeks.org/given-an-array-arr-find-the-maximum-j-i-such-that-arrj-arri/ 
-13. https://www.geeksforgeeks.org/find-the-minimum-distance-between-two-numbers/
-14. https://www.geeksforgeeks.org/find-whether-subarray-form-mountain-not/
-15. https://www.geeksforgeeks.org/merging-intervals/
-16. https://www.geeksforgeeks.org/a-product-array-puzzle/
-17. https://www.geeksforgeeks.org/rearrange-given-array-place/
-18. https://www.geeksforgeeks.org/remove-duplicates-from-an-array-of-small-primes/
-19. https://www.geeksforgeeks.org/replace-0-5-input-integer/
-20. https://www.geeksforgeeks.org/array-rotation/
+11. https://www.geeksforgeeks.org/maximum-sum-path-across-two-arrays/<br>
+Given two sorted arrays, such that the arrays may have some common elements. 
+Find the sum of the maximum sum path to reach from the beginning of any array to end of any of the two arrays.
+We can switch from one array to another array only at common elements.
+Note: The common elements do not have to be at the same indexes.<br>
+12. https://www.geeksforgeeks.org/given-an-array-arr-find-the-maximum-j-i-such-that-arrj-arri/ <br>
+Given an array arr[], find the maximum j – i such that arr[j] > arr[i].<br>
+13. https://www.geeksforgeeks.org/find-the-minimum-distance-between-two-numbers/<br>
+Given an unsorted array arr[] and two numbers x and y, find the minimum distance between x and y in arr[]. T
+he array might also contain duplicates. You may assume that both x and y are different and present in arr[].<br>
+14. https://www.geeksforgeeks.org/find-whether-subarray-form-mountain-not/<br>
+We are given an array of integers and a range, we need to find whether the subarray which falls in this range has values in the form of a mountain or not. 
+All values of the subarray are said to be in the form of a mountain if either all values are increasing or decreasing or first increasing and then decreasing.<br>
+15. https://www.geeksforgeeks.org/merging-intervals/<br>
+Given a collection of Intervals,merge all the overlapping Intervals.
+For example:<br>
+Given [1,3], [2,6], [8,10], [15,18],<br>
+return [1,6], [8,10], [15,18].<br>
+Make sure the returned intervals are sorted.<br>
+16. https://www.geeksforgeeks.org/a-product-array-puzzle/<br>
+Given an array arr[] of n integers, construct a Product Array prod[] (of same size) such that prod[i] is equal to the product of all the elements of arr[] except arr[i]. 
+Solve it without division operator in O(n) time.<br>
+17. https://www.geeksforgeeks.org/rearrange-given-array-place/<br>
+Given an array arr[] of size n where every element is in range from 0 to n-1. Rearrange the given array so that arr[i] becomes arr[arr[i]]. 
+This should be done with O(1) extra space.<br>
+18. https://www.geeksforgeeks.org/remove-duplicates-from-an-array-of-small-primes/<br>
+Given an array of primes such that the range of primes is small. Remove duplicates from the array.<br>
+19. https://www.geeksforgeeks.org/replace-0-5-input-integer/<br>
+Given an integer as input and replace all the ‘0’ with ‘5’ in the integer.<br>
+20. https://www.geeksforgeeks.org/array-rotation/<br>
+Write a function rotate(ar[], d, n) that rotates arr[] of size n by d elements.<br>
+
 ----------------------------------------------------------------------------------------------------------------
 <h3>Day 3 (ARRAYS)</h3>
 21. https://www.geeksforgeeks.org/find-a-sorted-subsequence-of-size-3-in-linear-time/
