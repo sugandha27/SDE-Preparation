@@ -1,10 +1,16 @@
-11. https://www.geeksforgeeks.org/maximum-sum-path-across-two-arrays/<br>
-Given two sorted arrays, such that the arrays may have some common elements. Find the sum of the maximum sum path to reach from the beginning of any array to end of any of the two arrays. We can switch from one array to another array only at common elements.
-Note: The common elements do not have to be at the same indexes.<br>
-12. https://www.geeksforgeeks.org/given-an-array-arr-find-the-maximum-j-i-such-that-arrj-arri/ <br>
-Given an array arr[], find the maximum j – i such that arr[j] > arr[i].<br>
+11. https://www.geeksforgeeks.org/maximum-sum-path-across-two-arrays/
+Given two sorted arrays, such that the arrays may have some common elements. 
+Find the sum of the maximum sum path to reach from the beginning of any array to end of any of the two arrays.
+We can switch from one array to another array only at common elements.
+Note: The common elements do not have to be at the same indexes.
+12. https://www.geeksforgeeks.org/given-an-array-arr-find-the-maximum-j-i-such-that-arrj-arri/ 
+Given an array arr[], find the maximum j – i such that arr[j] > arr[i].
 13. https://www.geeksforgeeks.org/find-the-minimum-distance-between-two-numbers/
+Given an unsorted array arr[] and two numbers x and y, find the minimum distance between x and y in arr[]. T
+he array might also contain duplicates. You may assume that both x and y are different and present in arr[].
 14. https://www.geeksforgeeks.org/find-whether-subarray-form-mountain-not/
+We are given an array of integers and a range, we need to find whether the subarray which falls in this range has values in the form of a mountain or not. 
+All values of the subarray are said to be in the form of a mountain if either all values are increasing or decreasing or first increasing and then decreasing.
 15. https://www.geeksforgeeks.org/merging-intervals/
 16. https://www.geeksforgeeks.org/a-product-array-puzzle/
 17. https://www.geeksforgeeks.org/rearrange-given-array-place/
